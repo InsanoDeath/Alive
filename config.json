@@ -1,0 +1,13 @@
+{
+    "token": "ODM5NDAxNjYwMTgyODIyOTQy.YJJHtw.niLoFPDT6nqAJB8P4pE9CTEbWLk",
+    "prefix": "a!",
+    "owners": ["539738942346493952"],
+    "timeout": 300000,
+    "invite_link": "https://discord.com/api/oauth2/authorize?client_id=839401660182822942&permissions=523328&scope=bot",
+
+    "colors": {
+        "bot": "#039799"
+    },
+
+    "MONGODB": "mongodb://InsanoDeath:Sameer9678@alive-shard-00-00.cawhe.mongodb.net:27017,alive-shard-00-01.cawhe.mongodb.net:27017,alive-shard-00-02.cawhe.mongodb.net:27017/aliveDB?ssl=true&replicaSet=atlas-o3ny46-shard-0&authSource=admin&retryWrites=true&w=majority"
+}
